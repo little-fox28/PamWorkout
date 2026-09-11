@@ -1,0 +1,25 @@
+# Swift / Xcode
+.DS_Store
+/.build/
+/Packages/
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+*.xcworkspace
+*.xcodeproj
+
+# LSP / IDEs
+.sourcekit-lsp/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output / Tools
+/xtool/
+*.ipa
+
+# OS Generated
+Thumbs.db
